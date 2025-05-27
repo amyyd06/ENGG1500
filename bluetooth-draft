@@ -4,7 +4,6 @@ import aioble
 import bluetooth
 import struct
 from machine import Pin
-from random import randint
 from time import sleep
 
 # Init LED
